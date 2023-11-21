@@ -76,3 +76,61 @@ body{background-color: rgb(45, 44, 44);}
     border-top: 2px solid rgb(255, 129, 150);
     margin-top: 5%;
 }
+.footer{
+    margin-top: 60px;
+}
+.water{text-align: center;margin-top: 50px;}
+.history{
+    color: pink;
+    font-family: cursive;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: center;
+}
+.get{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.form{
+    color: white;
+    float: left;
+    font-family: cursive;
+    margin-top: 25px;
+    margin-left: 200px;
+    text-align: center;
+}
+.input{
+    background-color: black;border: 1px solid pink;border-radius: 8px;box-shadow: 0px 0px 10px burlywood;
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.input1{
+    background-color: black;border: 1px solid pink;border-radius: 8px;box-shadow: 0px 0px 10px burlywood;
+    margin-left: 120px;
+    margin-top: 25px;
+}
+.input2{
+    background-color: black;border: 1px solid pink;border-radius: 8px;box-shadow: 0px 0px 10px burlywood;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.send{
+
+    margin-top: 30px;
+    margin-left: 350px;
+    width: 120px;
+    height: 30px;
+    font-family: cursive;
+    background-color: pink(71, 51, 25, 0.224);
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 15px pink;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.send:hover{
+    background-color: pink(218, 208, 195);
+    color: black;
+}
